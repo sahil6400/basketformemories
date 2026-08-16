@@ -7,7 +7,7 @@ import Reveal from "@/components/Reveal";
 export const metadata = {
   title: "Contact Us — WhatsApp, Phone & Instagram",
   description:
-    "Get in touch with Basket for Memories for gift enquiries and orders. Message us on WhatsApp, call us, or find us on Instagram @basket.of.memories.",
+    "Get in touch with Basket for Memories for gift enquiries and orders. Message us on WhatsApp, call us, or find us on Instagram @basket.for.memories.",
   alternates: { canonical: "/contact" },
 };
 
