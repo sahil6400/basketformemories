@@ -41,7 +41,7 @@ export const categories = [
     description:
       "Cute tumblers and sippers dressed up with charms, straws and personalised name tags — perfect for their morning coffee or iced tea dates.",
     emoji: "🥤",
-    image: homeImage,
+    image: Flower_Topper_Water_Bottle,
     gradient: "from-[#dfe9f2] via-[#e9f0f5] to-[#f7f4ee]",
   },
   {
@@ -52,18 +52,18 @@ export const categories = [
     description:
       "Cute teddy bears in every size, from palm-sized tiny bears to big huggable ones — the classic 'I'm thinking of you' gift.",
     emoji: "🧸",
-    image: homeImage,
+    image: Heart_Hug_Teddy,
     gradient: "from-[#f7ebd8] via-[#f2e2c7] to-[#f8f2ea]",
   },
   {
     slug: "tiny-gifts",
-    name: "Tiny Girly Gifts",
+    name: "Tiny Girly Giftsss",
     shortName: "Tiny Gifts",
     tagline: "Small things, big memories",
     description:
       "Tiny, adorable gifts made for girls who love cute things — keychains, mini bouquets, little trinkets that fit in a pocket but stay in the heart.",
     emoji: "🎀",
-    image: homeImage,
+    image: Tiny_Teddy_Bag_Charm,
     gradient: "from-[#e3ebdc] via-[#eef2e8] to-[#f8f4ee]",
   },
 ];
