@@ -18,7 +18,7 @@ export default function CtaBanner() {
             Message us on WhatsApp right now — we'll help you pick the cutest gift for the moment.
           </p>
           <a
-            href={buildWhatsAppLink("Hi Basket of Memories! I'd love to know more about your gifts 🎁")}
+            href={buildWhatsAppLink("Hi Basket for Memories! I'd love to know more about your gifts 🎁")}
             target="_blank"
             rel="noopener noreferrer"
             className="btn-whatsapp px-7 py-3.5 text-[15px] !shadow-[0_10px_24px_-8px_rgba(0,0,0,0.35)]"

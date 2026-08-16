@@ -9,7 +9,7 @@ export const metadata = {
 
 const seoParagraphs = [
   "A teddy bear is the one gift that never goes out of style — from a tiny palm-sized bear tucked into a bouquet to a big huggable one that takes over the bed, teddy bears say 'I care about you' in the simplest way possible.",
-  "Basket of Memories's teddy bear collection ranges from tiny 10cm bears perfect as bouquet add-ons, to heart-hug teddies and matching Mr. & Mrs. sets made especially for couples celebrating an anniversary or just a regular Tuesday.",
+  "Basket for Memories's teddy bear collection ranges from tiny 10cm bears perfect as bouquet add-ons, to heart-hug teddies and matching Mr. & Mrs. sets made especially for couples celebrating an anniversary or just a regular Tuesday.",
   "Every teddy is soft, huggable and safe for gifting to partners, friends or little ones — pick your favourite and message us on WhatsApp to get it shipped.",
 ];
 

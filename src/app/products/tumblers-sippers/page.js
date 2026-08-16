@@ -9,7 +9,7 @@ export const metadata = {
 
 const seoParagraphs = [
   "Some gifts are for special occasions, and some become part of everyday life — cute sippers and tumblers are the second kind. A little bottle that shows up at every coffee run, every gym bag, every desk, quietly reminding them of who gave it.",
-  "Basket of Memories's tumbler and sipper collection is designed for exactly that — pastel colours, charm straws, bear toppers and even matching his-and-hers sets, so couples can carry a little piece of each other through the day.",
+  "Basket for Memories's tumbler and sipper collection is designed for exactly that — pastel colours, charm straws, bear toppers and even matching his-and-hers sets, so couples can carry a little piece of each other through the day.",
   "Great as a solo gift or paired with a teddy bear or crochet flower pot for a complete gifting hamper — just ask us on WhatsApp and we'll help you build the perfect combo.",
 ];
 

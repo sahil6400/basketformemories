@@ -7,7 +7,7 @@ import Reveal from "@/components/Reveal";
 export const metadata = {
   title: "Contact Us — WhatsApp, Phone & Instagram",
   description:
-    "Get in touch with Basket of Memories for gift enquiries and orders. Message us on WhatsApp, call us, or find us on Instagram @basket.of.memories.",
+    "Get in touch with Basket for Memories for gift enquiries and orders. Message us on WhatsApp, call us, or find us on Instagram @basket.of.memories.",
   alternates: { canonical: "/contact" },
 };
 
@@ -30,7 +30,7 @@ export default function ContactPage() {
         <div className="grid sm:grid-cols-2 gap-6 mb-10">
           <Reveal>
             <a
-              href={buildWhatsAppLink("Hi Basket of Memories! I'd love to get in touch 🎁")}
+              href={buildWhatsAppLink("Hi Basket for Memories! I'd love to get in touch 🎁")}
               target="_blank"
               rel="noopener noreferrer"
               className="yarn-card bg-paper p-7 flex flex-col items-center text-center h-full block"

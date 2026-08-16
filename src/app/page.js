@@ -9,7 +9,7 @@ import CtaBanner from "@/components/CtaBanner";
 export const metadata = {
   title: "Cute Handmade Gifts for Couples — Crochet Flower Pots, Sippers & Teddy Bears",
   description:
-    "Basket of Memories sells handmade crochet flower pots, cute tumblers & sippers, teddy bears and tiny gifts — perfect for couples to gift each other. Order easily on WhatsApp.",
+    "Basket for Memories sells handmade crochet flower pots, cute tumblers & sippers, teddy bears and tiny gifts — perfect for couples to gift each other. Order easily on WhatsApp.",
   alternates: { canonical: "/" },
 };
 

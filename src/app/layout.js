@@ -75,7 +75,7 @@ export default function RootLayout({ children }) {
         <Header />
         <main>{children}</main>
         <Footer />
-        <WhatsAppFloatingButton message="Hi Basket of Memories! I'd love to know more about your gifts 🎁" />
+        <WhatsAppFloatingButton message="Hi Basket for Memories! I'd love to know more about your gifts 🎁" />
       </body>
     </html>
   );

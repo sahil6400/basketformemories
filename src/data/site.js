@@ -1,8 +1,8 @@
 export const site = {
-  name: "Basket of Memories",
+  name: "Basket for Memories",
   tagline: "Tiny gifts, big memories",
   description:
-    "Basket of Memories is a handmade gift shop selling crochet flower pots, cute tumblers & sippers, teddy bears and tiny gifts — perfect for couples to gift each other and celebrate their memories.",
+    "Basket for Memories is a handmade gift shop selling crochet flower pots, cute tumblers & sippers, teddy bears and tiny gifts — perfect for couples to gift each other and celebrate their memories.",
   phone: "9053616400",
   phoneDisplay: "+91 90536 16400",
   whatsappNumber: "919053616400",
@@ -19,7 +19,7 @@ export const site = {
     "couple gifts online",
     "handmade gift shop India",
     "cute gift shop for couples",
-    "Basket of Memories",
+    "Basket for Memories",
   ],
 };
 
@@ -29,5 +29,5 @@ export function buildWhatsAppLink(message) {
 }
 
 export function productWhatsAppMessage(productName) {
-  return `Hi Basket of Memories! 🎁 I'd like to enquire about "${productName}". Is it available?`;
+  return `Hi Basket for Memories! 🎁 I'd like to enquire about "${productName}". Is it available?`;
 }

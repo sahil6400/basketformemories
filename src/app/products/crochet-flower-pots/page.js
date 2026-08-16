@@ -9,7 +9,7 @@ export const metadata = {
 
 const seoParagraphs = [
   "A crochet flower pot is more than a bouquet — it's a keepsake. Unlike fresh flowers that wilt in a week, every stitch of yarn in these handmade flower pots is built to stay in full bloom for years, quietly holding onto the memory of the day it was gifted.",
-  "At Basket of Memories, each crochet flower pot is hand-woven, petal by petal, and potted in a mini planter that's ready to sit on a study table, office desk or bedside shelf. They make a thoughtful gift for anniversaries, promise day, birthdays or simply a 'thinking of you' surprise between couples.",
+  "At Basket for Memories, each crochet flower pot is hand-woven, petal by petal, and potted in a mini planter that's ready to sit on a study table, office desk or bedside shelf. They make a thoughtful gift for anniversaries, promise day, birthdays or simply a 'thinking of you' surprise between couples.",
   "Choose from roses, sunflowers, tulips, daisies and heart-stitched blooms — each one handmade in small batches, so your gift feels personal, not mass-produced.",
 ];
 

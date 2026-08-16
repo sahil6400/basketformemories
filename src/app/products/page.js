@@ -6,7 +6,7 @@ import { buildWhatsAppLink } from "@/data/site";
 export const metadata = {
   title: "Shop All Gifts — Crochet Flower Pots, Sippers, Teddy Bears & Tiny Gifts",
   description:
-    "Browse Basket of Memories's full collection of handmade gifts — crochet flower pots, cute tumblers & sippers, teddy bears and tiny girly gifts. Perfect for couples. Enquire instantly on WhatsApp.",
+    "Browse Basket for Memories's full collection of handmade gifts — crochet flower pots, cute tumblers & sippers, teddy bears and tiny girly gifts. Perfect for couples. Enquire instantly on WhatsApp.",
   alternates: { canonical: "/products" },
 };
 
@@ -39,7 +39,7 @@ export default function ProductsPage() {
           WhatsApp.
         </p>
         <a
-          href={buildWhatsAppLink("Hi Basket of Memories! I need help choosing a gift 🎁 Can you help?")}
+          href={buildWhatsAppLink("Hi Basket for Memories! I need help choosing a gift 🎁 Can you help?")}
           target="_blank"
           rel="noopener noreferrer"
           className="btn-whatsapp px-6 py-3 text-sm"

@@ -7,7 +7,7 @@ import Reveal from "@/components/Reveal";
 export const metadata = {
   title: "About Us — Our Handmade Gifting Story",
   description:
-    "Learn the story behind Basket of Memories — a small, handmade gift shop crafting crochet flower pots, sippers, teddy bears and tiny gifts for couples and loved ones.",
+    "Learn the story behind Basket for Memories — a small, handmade gift shop crafting crochet flower pots, sippers, teddy bears and tiny gifts for couples and loved ones.",
   alternates: { canonical: "/about" },
 };
 
@@ -17,7 +17,7 @@ export default function AboutPage() {
       <section className="bg-gradient-to-b from-butter-light to-cream pt-14 pb-12 px-6 text-center">
         <span className="text-6xl inline-block mb-3 animate-bob-slow select-none" aria-hidden>🧺</span>
         <h1 className="font-display text-4xl sm:text-5xl text-brown mb-4">
-          The story behind <span className="stitch-underline text-rose-dark">Basket of Memories</span>
+          The story behind <span className="stitch-underline text-rose-dark">Basket for Memories</span>
         </h1>
         <p className="text-brown-soft max-w-xl mx-auto text-[15px] leading-relaxed">
           A tiny basket of handmade things, made to hold big feelings.
@@ -28,7 +28,7 @@ export default function AboutPage() {
       <section className="max-w-3xl mx-auto px-6 py-14 sm:py-16">
         <Reveal>
           <p className="text-brown-soft text-[15px] leading-relaxed mb-5">
-            Basket of Memories started with a simple idea — that the smallest gifts often carry the
+            Basket for Memories started with a simple idea — that the smallest gifts often carry the
             biggest memories. A crochet flower that never wilts. A sipper you reach for every
             morning. A tiny teddy tucked into a bag. These aren't just products; they're little
             markers of a moment shared between two people.
@@ -40,7 +40,7 @@ export default function AboutPage() {
             you love, and we'll take care of the rest.
           </p>
           <p className="text-brown-soft text-[15px] leading-relaxed">
-            Today, Basket of Memories is loved by couples, friends and family across India who want to
+            Today, Basket for Memories is loved by couples, friends and family across India who want to
             gift something that feels personal, cute, and made with actual hands — not a factory
             line. Thank you for letting us be a small part of your big memories. 💛
           </p>
@@ -89,7 +89,7 @@ export default function AboutPage() {
         </p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <a
-            href={buildWhatsAppLink("Hi Basket of Memories! I'd love to know more about you 🧺")}
+            href={buildWhatsAppLink("Hi Basket for Memories! I'd love to know more about you 🧺")}
             target="_blank"
             rel="noopener noreferrer"
             className="btn-whatsapp px-6 py-3 text-sm justify-center"

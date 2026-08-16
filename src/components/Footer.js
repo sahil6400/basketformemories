@@ -65,7 +65,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href={buildWhatsAppLink("Hi Basket of Memories! I'd love to know more about your gifts 🎁")}
+                href={buildWhatsAppLink("Hi Basket for Memories! I'd love to know more about your gifts 🎁")}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-blush transition-colors"
@@ -82,7 +82,7 @@ export default function Footer() {
 
       <div className="border-t border-cream-2/15">
         <div className="max-w-6xl mx-auto px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-cream-2/60">
-          <p>© {new Date().getFullYear()} Basket of Memories. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Basket for Memories. All rights reserved.</p>
           <p>Handmade with 🧶 for couples & gift-lovers everywhere.</p>
         </div>
       </div>

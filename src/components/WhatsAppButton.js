@@ -23,7 +23,7 @@ export function WhatsAppFloatingButton({ message }) {
       href={href}
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="Chat with Basket of Memories on WhatsApp"
+      aria-label="Chat with Basket for Memories on WhatsApp"
       className="fixed bottom-5 right-5 z-50 btn-whatsapp w-14 h-14 !rounded-full !p-0 flex items-center justify-center animate-pulse-soft"
     >
       <MessageCircle size={28} strokeWidth={2.2} />

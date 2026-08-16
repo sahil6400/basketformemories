@@ -31,7 +31,7 @@ export default function Hero() {
               className="fade-up text-brown-soft text-base sm:text-lg max-w-xl leading-relaxed"
               style={{ animationDelay: "0.16s" }}
             >
-              Basket of Memories creates thoughtful, handcrafted keepsakes for couples, birthdays, and meaningful moments — from crochet flower pots to premium gifting essentials with a warm, refined look.
+              Basket for Memories creates thoughtful, handcrafted keepsakes for couples, birthdays, and meaningful moments — from crochet flower pots to premium gifting essentials with a warm, refined look.
             </p>
 
             <div className="fade-up flex flex-col sm:flex-row items-center gap-3 mt-1" style={{ animationDelay: "0.24s" }}>
@@ -39,7 +39,7 @@ export default function Hero() {
                 Shop All Gifts <ArrowRight size={17} />
               </Link>
               <a
-                href={buildWhatsAppLink("Hi Basket of Memories! I'd love to know more about your gifts 🎁")}
+                href={buildWhatsAppLink("Hi Basket for Memories! I'd love to know more about your gifts 🎁")}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-whatsapp px-7 py-3.5 text-[15px]"

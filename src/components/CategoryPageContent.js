@@ -67,7 +67,7 @@ export default function CategoryPageContent({ slug, seoParagraphs, faqs }) {
           Tap enquire on any product above, or message us directly to ask about {category.name.toLowerCase()}.
         </p>
         <a
-          href={buildWhatsAppLink(`Hi Basket of Memories! I'd love to know more about your ${category.name} 🎁`)}
+          href={buildWhatsAppLink(`Hi Basket for Memories! I'd love to know more about your ${category.name} 🎁`)}
           target="_blank"
           rel="noopener noreferrer"
           className="btn-whatsapp px-6 py-3 text-sm"

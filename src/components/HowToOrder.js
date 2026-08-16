@@ -52,7 +52,7 @@ export default function HowToOrder() {
 
       <Reveal className="flex justify-center">
         <a
-          href={buildWhatsAppLink("Hi Basket of Memories! I'd love to place an order 🎁")}
+          href={buildWhatsAppLink("Hi Basket for Memories! I'd love to place an order 🎁")}
           target="_blank"
           rel="noopener noreferrer"
           className="btn-whatsapp px-7 py-3.5 text-[15px]"

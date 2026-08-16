@@ -36,7 +36,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between h-18 py-3">
         <Link href="/" className="flex items-center gap-2 group" onClick={() => setOpen(false)}>
           <span className="font-display text-xl sm:text-2xl text-rose-dark leading-none">
-            Basket of Memories
+            Basket for Memories
           </span>
         </Link>
 
@@ -58,13 +58,13 @@ export default function Header() {
             href={site.instagramUrl}
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Basket of Memories on Instagram"
+            aria-label="Basket for Memories on Instagram"
             className="w-9 h-9 rounded-full bg-blush-light flex items-center justify-center text-rose-dark hover:bg-blush hover:scale-110 transition-all"
           >
             <InstagramIcon size={17} />
           </a>
           <a
-            href={buildWhatsAppLink("Hi Basket of Memories! I'd love to know more about your gifts 🎁")}
+            href={buildWhatsAppLink("Hi Basket for Memories! I'd love to know more about your gifts 🎁")}
             target="_blank"
             rel="noopener noreferrer"
             className="btn-whatsapp px-4 py-2 text-sm"
@@ -110,7 +110,7 @@ export default function Header() {
               <InstagramIcon size={18} />
             </a>
             <a
-              href={buildWhatsAppLink("Hi Basket of Memories! I'd love to know more about your gifts 🎁")}
+              href={buildWhatsAppLink("Hi Basket for Memories! I'd love to know more about your gifts 🎁")}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-whatsapp px-4 py-2.5 text-sm flex-1 justify-center"

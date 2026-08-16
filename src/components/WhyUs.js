@@ -30,7 +30,7 @@ export default function WhyUs() {
       <div className="max-w-6xl mx-auto px-6">
         <Reveal className="text-center max-w-2xl mx-auto mb-12">
           <span className="text-sm font-bold text-sage-dark uppercase tracking-widest" style={{ color: "#5f7a4a" }}>
-            Why Basket of Memories
+            Why Basket for Memories
           </span>
           <h2 className="font-display text-3xl sm:text-4xl text-brown mt-2">
             Gifting, the <span className="stitch-underline text-rose-dark">cozy</span> way
